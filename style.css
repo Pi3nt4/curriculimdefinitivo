@@ -1,0 +1,28 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff1cf;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color:#678c99 ;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h3{
+    background-color: #678c99;
+    color: white;
+}
